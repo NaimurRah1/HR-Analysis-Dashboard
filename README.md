@@ -1,6 +1,8 @@
 
 # 📊 HR Analysis Dashboard
+## 📷 Dashboard Preview
 
+![HR Dashboard](https://raw.githubusercontent.com/NaimurRah1/HR-Analysis-Dashboard/main/HR_analysis.png)
 ## 📌 Project Overview
 This project presents an interactive **HR Analytics Dashboard** designed to analyze workforce data and provide insights into employee distribution, performance, salaries, and organizational structure.
 
